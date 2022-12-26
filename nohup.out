@@ -1,0 +1,235 @@
+12-22 16:59:27 [SUCCESS] nonebot | NoneBot is initializing...
+12-22 16:59:27 [INFO] nonebot | Current Env: prod
+12-22 16:59:28 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+12-22 16:59:29 [SUCCESS] nonebot | Succeeded to import "basic"
+12-22 16:59:29 [SUCCESS] nonebot | Succeeded to import "mutiluser"
+12-22 16:59:29 [SUCCESS] nonebot | Succeeded to import "problem"
+12-22 16:59:29 [SUCCESS] nonebot | Running NoneBot...
+12-22 16:59:29 [INFO] uvicorn | Started server process [423998]
+12-22 16:59:29 [INFO] uvicorn | Waiting for application startup.
+12-22 16:59:29 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+12-22 16:59:29 [INFO] uvicorn | Application startup complete.
+12-22 16:59:29 [INFO] uvicorn | Uvicorn running on http://127.0.0.1:9090 (Press CTRL+C to quit)
+12-22 16:59:31 [INFO] uvicorn | ('127.0.0.1', 40078) - "WebSocket /onebot/v11/ws" [accepted]
+12-22 16:59:31 [INFO] nonebot | OneBot V11 | Bot 3020472071 connected
+12-22 16:59:31 [INFO] websockets | connection open
+12-23 15:23:44 [SUCCESS] nonebot | OneBot V11 3020472071 | [notice.notify.honor]: {'time': 1671780224, 'self_id': 3020472071, 'post_type': 'notice', 'notice_type': 'notify', 'sub_type': 'honor', 'user_id': 1044911641, 'group_id': 111952496, 'honor_type': 'talkative'}
+12-24 11:42:10 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2065259017 from 1044911641@[群:732370841] "comcaiuchq2un"
+12-24 11:42:11 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -502264909 from 1044911641@[群:732370841] "fhua&#93; ahuv"
+12-24 11:42:14 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1793639643 from 1044911641@[群:732370841] "cmd ls"
+12-24 11:42:15 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 192130694 from 1928994748@[群:732370841] "a.sh
+at
+b_comment
+Downloads
+env
+gallery-dl
+gclone.sh
+GoogleTeam
+jiankong.py
+jiankong.sh
+log
+miniconda3
+my_nonebot2
+nb2.log
+nb2.sh
+nonebot_plugin_abbrreply
+nonebot_plugin_pixiv
+od
+PortAdd.sh
+PortDeleted.sh
+qbittorrent-bot
+QQbotFiles
+sb.sh
+shell
+test
+tgface.py
+随机关注up.py"
+12-24 11:42:29 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2088017424 from 1044911641@[群:732370841] "cmd ls my_nonebot2/"
+12-24 11:42:30 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -444739670 from 1928994748@[群:732370841] "accounts
+bot.py
+data
+docker-compose.yml
+Dockerfile
+font.sh
+init.sh
+kill.sh
+LICENSE
+monitor.py
+nb2.sh
+package-lock.json
+plugins
+PortAdd.sh
+PortDeleted.sh
+__pycache__
+pyproject.toml
+README.md
+run.sh
+simsun.ttc
+tgface"
+12-24 11:43:31 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1837433028 from 1044911641@[群:732370841] "cmd ls my_nonebot2/plugins"
+12-24 11:43:32 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 46523053 from 1928994748@[群:732370841] "command
+fastlink
+love
+newfan
+nonebot_plugin_biliav
+nonebot_plugin_bilibilibot
+nonebot_plugin_chess
+nonebot_plugin_picsearcher
+nonebot_plugin_pixiv
+nonebot_plugin_tgface
+nonebot_plugin_ygo
+sbbot
+sendimg
+setting.yml
+setu
+twiierimg
+utils
+xuanran
+yulu"
+12-24 11:43:55 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1975702075 from 1044911641@[群:732370841] "cmd ls my_nonebot2/plugins/setu"
+12-24 11:43:56 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 352672734 from 1928994748@[群:732370841] "config.py
+data_source.py
+__init__.py
+__pycache__"
+12-24 11:44:07 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1644325704 from 1044911641@[群:732370841] "cmd cat my_nonebot2/plugins/setu/data_source.py"
+12-24 11:44:07 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -83150094 from 1928994748@[群:732370841] "您的指令是没有返回值的"
+12-24 11:44:21 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1945367964 from 1044911641@[群:732370841] "cmd cat my_nonebot2/plugins/setu/__init__.py"
+12-24 11:44:21 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 308846535 from 1928994748@[群:732370841] "别想着干坏事"
+12-24 11:44:25 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1701818193 from 1044911641@[群:732370841] "?"
+12-24 11:44:36 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -60358933 from 1044911641@[群:732370841] "[CQ:at,qq=1761512493] 什么破阻挡"
+12-24 11:44:43 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1956524419 from 1044911641@[群:732370841] "cat都不能用"
+12-24 11:45:13 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 467588076 from 1761512493@[群:732370841] "init"
+12-24 11:45:17 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1826218874 from 1761512493@[群:732370841] "是禁词"
+12-24 11:47:25 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1835186415 from 1044911641@[群:732370841] "[CQ:reply,id=1644325704][CQ:at,qq=1044911641] 这个"
+12-24 11:47:39 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -442861689 from 1044911641@[群:732370841] "cmd cat my_nonebot2/plugins/setu/config.py"
+12-24 11:47:40 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2090018365 from 1928994748@[群:732370841] "from pydantic import BaseSettings
+
+
+class Config(BaseSettings):
+    # Your Config Here
+
+    class Config:
+        extra = "ignore""
+12-24 11:47:56 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 194254507 from 1044911641@[群:732370841] "cmd cat my_nonebot2/plugins/setu/data_source.py"
+12-24 11:47:56 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1779399928 from 1928994748@[群:732370841] "您的指令是没有返回值的"
+12-24 11:47:59 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -487083106 from 1044911641@[群:732370841] "cmd cat my_nonebot2/plugins/setu/data_source.py"
+12-24 11:47:59 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2080301604 from 1928994748@[群:732370841] "您的指令是没有返回值的"
+12-24 11:48:48 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 217698994 from 1761512493@[群:732370841] "你他妈要看，直接去看github啊"
+12-24 11:57:53 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1673081053 from 1044911641@[群:732370841] "ygo"
+12-24 11:58:37 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -347996235 from 1044911641@[群:732370841] "ygo 牛头人"
+12-24 11:58:43 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1954122160 from 1928994748@[群:732370841] "[CQ:forward,id=6v/0iQC+VcZppOKsonIQiiUEfxFJuv1u2asRRQ4sB0PG7tJh5oiy3w5JOVirXfrZ]你的QQ暂不支持查看&#91;转发多条消息&#93;，请期待后续版本。"
+12-24 12:03:50 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -58636602 from 1044911641@[群:732370841] "https://loryx.wiki/"
+12-24 13:57:04 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1703417724 from 1044911641@[群:732370841] "ygo 牛头人"
+12-24 13:57:06 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 311371754 from 1928994748@[群:732370841] "[CQ:forward,id=EhcoiWzidyu54ERgApSUMld3Z5CkAMpGK+5zxliA4rnO+KW/ubU978uwImImAC9V]你的QQ暂不支持查看&#91;转发多条消息&#93;，请期待后续版本。"
+12-24 14:01:51 [INFO] uvicorn | Shutting down
+12-24 14:01:51 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 3020472071 closed by peer
+12-24 14:01:51 [INFO] websockets | connection closed
+12-24 14:01:51 [INFO] uvicorn | Waiting for application shutdown.
+12-24 14:01:51 [INFO] nonebot_plugin_apscheduler | Scheduler Shutdown
+12-24 14:01:51 [INFO] uvicorn | Application shutdown complete.
+12-24 14:01:51 [INFO] uvicorn | Finished server process [423998]
+12-24 18:56:24 [SUCCESS] nonebot | NoneBot is initializing...
+12-24 18:56:24 [INFO] nonebot | Current Env: prod
+12-24 18:56:25 [SUCCESS] nonebot | Succeeded to import "mutiluser"
+12-24 18:56:25 [SUCCESS] nonebot | Succeeded to import "nonebot_plugin_apscheduler"
+12-24 18:56:26 [SUCCESS] nonebot | Succeeded to import "problem"
+12-24 18:56:27 [SUCCESS] nonebot | Succeeded to import "lor"
+12-24 18:56:27 [SUCCESS] nonebot | Succeeded to import "basic"
+12-24 18:56:27 [SUCCESS] nonebot | Running NoneBot...
+12-24 18:56:27 [INFO] uvicorn | Started server process [471786]
+12-24 18:56:27 [INFO] uvicorn | Waiting for application startup.
+12-24 18:56:27 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+12-24 18:56:27 [INFO] uvicorn | Application startup complete.
+12-24 18:56:27 [INFO] uvicorn | Uvicorn running on http://127.0.0.1:9090 (Press CTRL+C to quit)
+12-24 18:56:28 [INFO] uvicorn | ('127.0.0.1', 52612) - "WebSocket /onebot/v11/ws" [accepted]
+12-24 18:56:28 [INFO] nonebot | OneBot V11 | Bot 3020472071 connected
+12-24 18:56:28 [INFO] websockets | connection open
+12-24 18:57:03 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1361310557 from 1044911641@[群:111952496] "指令查询"
+12-24 18:57:03 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.basic)
+12-24 18:57:03 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.basic) running complete
+12-24 18:57:14 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1132669249 from 1044911641@[群:732370841] "指令查询"
+12-24 18:57:14 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.basic)
+12-24 18:57:15 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.basic) running complete
+12-24 18:57:56 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1203743126 from 1044911641@[群:111952496] "lor hf3 yx1"
+12-24 18:57:56 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 3}
+{'total': 22, 'data': [{'collectible': True, 'cost': 3, 'id': 3054, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01SI030.png', 'keyword': ['凶煞：只能被攻击力大于等于3的单位格挡。'], 'name': '卡莉丝塔', 'rarityRef': 'Champion', 'regionRef': 'ShadowIsles', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01SI030.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 3093, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01NX020.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '德莱文', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01NX020.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 3097, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01PZ036.png', 'keyword': ['灵巧：只能被同样具备灵巧属性的单位格挡。', '易逝：易逝卡牌会在回合结束时从手牌中弃掉。', '打击水晶：单位击中敌方水晶时触发的效果。'], 'name': '伊泽瑞尔', 'rarityRef': 'Champion', 'regionRef': 'PiltoverZaun', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01PZ036.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 3220, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01IO009.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '劫', 'rarityRef': 'Champion', 'regionRef': 'Ionia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01IO009.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 3280, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01NX042.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '卡特琳娜', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01NX042.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 4024, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02BW022.png', 'keyword': [], 'name': '厄运小姐', 'rarityRef': 'Champion', 'regionRef': 'Bilgewater', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02BW022.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5020, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/03IO002.png', 'keyword': ['多地区：牌组的地区由牌组中的单地区卡牌决定，常规模式牌组至多有2个地区。AB双地区的卡牌，可以加入AC地区的牌组，可以加入BD地区的牌组，但不可以放入既没有单A地区也没有单B地区的牌组中。'], 'name': '璐璐', 'rarityRef': 'Champion', 'regionRef': 'Ionia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/03IO002.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5240, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/03MT055.png', 'keyword': [], 'name': '索拉卡', 'rarityRef': 'Champion', 'regionRef': 'Targon', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/03MT055.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5330, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/03NX007.png', 'keyword': ['重铸：随机生成一张复原符文之刃还需要的断剑碎片牌。一旦你施放全部三种，生成放逐之锋。'], 'name': '锐雯', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/03NX007.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5408, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/03MT217.png', 'keyword': ['入夜：并非本回合己方打出的第一张牌时，打出时生效。', '切换：五种皎月武器围成一圈，每次切换前进一到两步。'], 'name': '厄斐琉斯', 'rarityRef': 'Champion', 'regionRef': 'Targon', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/03MT217.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5518, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04FR005.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。'], 'name': '丽桑卓', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04FR005.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5538, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04NX004.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '乐芙兰', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04NX004.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5648, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04SH003.png', 'keyword': [], 'name': '阿兹尔', 'rarityRef': 'Champion', 'regionRef': 'Shurima', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04SH003.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5710, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04IO005.png', 'keyword': ['协调：当具有协调词条的单位进场时，补充1点法术法力。'], 'name': '艾瑞莉娅', 'rarityRef': 'Champion', 'regionRef': 'Ionia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04IO005.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5807, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04SH019.png', 'keyword': ['潜伏：己方攻击时，若己方牌库顶牌具有潜伏词条，该牌潜伏，给己方各处的潜伏者单位+1|+0。每回合至多触发潜伏效果一次。'], 'name': '雷克塞', 'rarityRef': 'Champion', 'regionRef': 'Shurima', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04SH019.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5907, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05BC133.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '崔丝塔娜', 'rarityRef': 'Champion', 'regionRef': 'BandleCity', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05BC133.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5919, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05BC163.png', 'keyword': ['多地区：牌组的地区由牌组中的单地区卡牌决定，常规模式牌组至多有2个地区。AB双地区的卡牌，可以加入AC地区的牌组，可以加入BD地区的牌组，但不可以放入既没有单A地区也没有单B地区的牌组中。'], 'name': '吉格斯', 'rarityRef': 'Champion', 'regionRef': 'BandleCity', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05BC163.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5960, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05BW005.png', 'keyword': ['协调：当具有协调词条的单位进场时，补充1点法术法力。', '激发：这些技能在你的法术生效时触发。'], 'name': '娜美', 'rarityRef': 'Champion', 'regionRef': 'Bilgewater', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05BW005.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 5992, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05PZ006.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '凯特琳', 'rarityRef': 'Champion', 'regionRef': 'PiltoverZaun', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05PZ006.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 6141, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05BC029.png', 'keyword': ['附身：可作为挂件打出，给宿主增益和词条。宿主离场时附身回手。'], 'name': '悠米', 'rarityRef': 'Champion', 'regionRef': 'BandleCity', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05BC029.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 6426, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06IO008.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。', '溢流：若己方在上个回合打出过2+个法术或技能，则满足溢流条件。'], 'name': '易大师', 'rarityRef': 'Champion', 'regionRef': 'Ionia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06IO008.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 3, 'id': 6513, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06DE021.png', 'keyword': [], 'name': '薇恩', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06DE021.png', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/01SI030.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01NX020.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01PZ036.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01IO009.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01NX042.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02BW022.png', 'https://wspic.iyingdi.cn/card/lor/card/img/03IO002.png', 'https://wspic.iyingdi.cn/card/lor/card/img/03MT055.png', 'https://wspic.iyingdi.cn/card/lor/card/img/03NX007.png', 'https://wspic.iyingdi.cn/card/lor/card/img/03MT217.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04FR005.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04NX004.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04SH003.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04IO005.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04SH019.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05BC133.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05BC163.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05BW005.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05PZ006.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05BC029.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06IO008.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06DE021.png']
+12-24 18:58:18 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-24 18:58:31 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1447966534 from 1044911641@[群:111952496] "xj 3054"
+12-24 18:58:31 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+12-24 18:58:33 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 15:15:05 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1428124554 from 1044911641@[群:732370841] "lor yx1 hf5"
+12-25 15:15:05 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 5}
+{'total': 18, 'data': [{'collectible': True, 'cost': 5, 'id': 2972, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01PZ056.png', 'keyword': ['激发：这些技能在你的法术生效时触发。', '易逝：易逝卡牌会在回合结束时从手牌中弃掉。', '多地区：牌组的地区由牌组中的单地区卡牌决定，常规模式牌组至多有2个地区。AB双地区的卡牌，可以加入AC地区的牌组，可以加入BD地区的牌组，但不可以放入既没有单A地区也没有单B地区的牌组中。'], 'name': '黑默丁格', 'rarityRef': 'Champion', 'regionRef': 'PiltoverZaun', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01PZ056.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 3104, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01SI052.png', 'keyword': ['挑战者：可选择由哪个敌方单位来格挡自己。'], 'name': '锤石', 'rarityRef': 'Champion', 'regionRef': 'ShadowIsles', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01SI052.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 3234, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01IO041.png', 'keyword': ['启明：当你拥有10点法力时，获得启明效果。'], 'name': '卡尔玛', 'rarityRef': 'Champion', 'regionRef': 'Ionia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01IO041.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 3315, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01NX006.png', 'keyword': ['凶煞：只能被攻击力大于等于3的单位格挡。'], 'name': '弗拉基米尔', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01NX006.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 3335, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01DE042.png', 'keyword': ['屏障：抵消该单位将承受的下一次伤害。持续一回合。'], 'name': '拉克丝', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01DE042.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 3378, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01DE012.png', 'keyword': ['复苏：在每回合结束后完全回复生命值。', '打击：对一名敌人造成等同于该单位攻击力的伤害。攻击力为0的单位无法打击。'], 'name': '盖伦', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01DE012.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 4048, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02BW032.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。'], 'name': '普朗克', 'rarityRef': 'Champion', 'regionRef': 'Bilgewater', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02BW032.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 4096, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02DE006.png', 'keyword': ['侦察：每回合首次只以侦察单位攻击时，鼓舞。'], 'name': '奎因', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02DE006.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 4125, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02IO006.png', 'keyword': ['挑战者：可选择由哪个敌方单位来格挡自己。', '屏障：抵消该单位将承受的下一次伤害。持续一回合。'], 'name': '李青', 'rarityRef': 'Champion', 'regionRef': 'Ionia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02IO006.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 4142, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02NX007.png', 'keyword': ['凶煞：只能被攻击力大于等于3的单位格挡。', '打击水晶：单位击中敌方水晶时触发的效果。'], 'name': '斯维因', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02NX007.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 4155, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02PZ008.png', 'keyword': ['挑战者：可选择由哪个敌方单位来格挡自己。', '坚韧：受到的所有伤害会减少1点。', '打击：对一名敌人造成等同于该单位攻击力的伤害。攻击力为0的单位无法打击。'], 'name': '蔚', 'rarityRef': 'Champion', 'regionRef': 'PiltoverZaun', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02PZ008.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 5009, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/03FR006.png', 'keyword': ['复苏：在每回合结束后完全回复生命值。'], 'name': '特朗德尔', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/03FR006.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 5076, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/03MT054.png', 'keyword': ['破晓：是本回合己方打出的第一张牌时，打出时生效。', '击晕：将一名单位移出战场。它无法攻击或格挡，直到此回合结束。', '最强：以攻击力最高的为准，若不相上下则比较生命值，最后比较消耗的法力值。'], 'name': '蕾欧娜', 'rarityRef': 'Champion', 'regionRef': 'Targon', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/03MT054.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 5596, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04SH073.png', 'keyword': [], 'name': '塔莉垭', 'rarityRef': 'Champion', 'regionRef': 'Shurima', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04SH073.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 6036, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05SI009.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。'], 'name': '赛娜', 'rarityRef': 'Champion', 'regionRef': 'ShadowIsles', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05SI009.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 6197, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05FR013.png', 'keyword': [], 'name': '乌迪尔', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05FR013.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 6353, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06SH009.png', 'keyword': ['先制攻击：进攻时，先于格挡单位进行攻击。', '进化：一旦己方在本局游戏召唤单位的词条或给友军的词条达6种，具有进化的单位便+2|+2。'], 'name': '卡莎', 'rarityRef': 'Champion', 'regionRef': 'Shurima', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06SH009.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 5, 'id': 6457, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06RU005.png', 'keyword': ['挑战者：可选择由哪个敌方单位来格挡自己。'], 'name': '凯隐', 'rarityRef': 'Champion', 'regionRef': 'Runeterra', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06RU005.png', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/01PZ056.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01SI052.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01IO041.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01NX006.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01DE042.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01DE012.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02BW032.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02DE006.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02IO006.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02NX007.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02PZ008.png', 'https://wspic.iyingdi.cn/card/lor/card/img/03FR006.png', 'https://wspic.iyingdi.cn/card/lor/card/img/03MT054.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04SH073.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05SI009.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05FR013.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06SH009.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06RU005.png']
+12-25 15:15:16 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 15:15:53 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1156509018 from 1044911641@[群:732370841] "xj 5009"
+12-25 15:15:53 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+12-25 15:15:55 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 15:17:30 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1554595745 from 1044911641@[群:732370841] "xj 6353"
+12-25 15:17:30 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+12-25 15:17:33 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 15:51:07 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2036327504 from 1761512493@[群:732370841] "fastlink更新"
+12-25 15:51:09 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -531188246 from 1928994748@[群:732370841] "更新cookies成功"
+12-25 15:51:10 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1756265092 from 1928994748@[群:732370841] "有可能cookies失效了"
+12-25 15:51:12 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 154472671 from 1761512493@[群:732370841] "fastlink"
+12-25 15:51:14 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2117214281 from 1928994748@[群:732370841] "白醥成功1次，一共5 G流量"
+12-25 15:51:16 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -415534605 from 1928994748@[群:732370841] "fastlink剩余流量:5 GB"
+12-25 15:54:20 [SUCCESS] nonebot | OneBot V11 3020472071 | [notice.notify.honor]: {'time': 1671954860, 'self_id': 3020472071, 'post_type': 'notice', 'notice_type': 'notify', 'sub_type': 'honor', 'user_id': 1044911641, 'group_id': 732370841, 'honor_type': 'talkative'}
+12-25 16:38:16 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1875099291 from 1044911641@[群:732370841] "fastlink更新"
+12-25 21:37:42 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 8609012 from 1255542159@[群:732370841] "fastlink更新"
+12-25 23:52:28 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2005167202 from 1044911641@[群:732370841] "lor 牛头人"
+12-25 23:52:28 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '牛头人', 'region': '', 'rarity': '', 'costNormal': ''}
+{'total': 1, 'data': [{'collectible': True, 'cost': 6, 'id': 3203, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01NX036.png', 'keyword': ['击晕：将一名单位移出战场。它无法攻击或格挡，直到此回合结束。', '最弱：以攻击力最低的为准，若不相上下则比较生命值，最后比较消耗的法力值。', '回合开始：每个回合开始时的效果，上个回合后让过的玩家先结算。'], 'name': '牛头人清算者', 'rarityRef': 'Rare', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01NX036.PNG', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/01NX036.png']
+12-25 23:52:29 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 23:52:46 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 1615123729 from 1044911641@[群:732370841] "ygo 牛头人"
+12-25 23:52:51 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -112360277 from 1928994748@[群:732370841] "[CQ:forward,id=U0QC3zja38DhX4KrLf3ymh08DriKnbG3o6vSzDbBJpQ5s1dft2dVnW/BIJjKXN/7]你的QQ暂不支持查看&#91;转发多条消息&#93;，请期待后续版本。"
+12-25 23:52:58 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1907706819 from 1044911641@[群:732370841] "[CQ:at,qq=1761512493] 睡了"
+12-25 23:53:52 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 271458718 from 1044911641@[群:732370841] "lor yx1 hf9"
+12-25 23:53:52 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 9}
+{'total': 0, 'data': [], 'success': True}
+相片为---------- []
+12-25 23:53:53 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 23:54:06 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -31440718 from 1044911641@[群:732370841] "lor yx1 hf8"
+12-25 23:54:06 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 8}
+{'total': 1, 'data': [{'collectible': True, 'cost': 8, 'id': 3267, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01FR039.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。'], 'name': '泰达米尔', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01FR039.PNG', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/01FR039.png']
+12-25 23:54:08 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 23:54:40 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 429419957 from 1044911641@[群:732370841] "lor yx1 hf7"
+12-25 23:54:40 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 7}
+{'total': 5, 'data': [{'collectible': True, 'cost': 7, 'id': 4076, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02BW053.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。', '凶煞：只能被攻击力大于等于3的单位格挡。', '投掷：从己方牌组底湮灭X张非英雄牌。', '深潜：一旦己方牌组有15-张牌，本局游戏便达成深潜状态，具有深潜词条的单位+3|+3。'], 'name': '诺提勒斯', 'rarityRef': 'Champion', 'regionRef': 'Bilgewater', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02BW053.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 5730, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04MT008.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。'], 'name': '墨菲特', 'rarityRef': 'Champion', 'regionRef': 'Targon', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04MT008.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 5972, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05NX001.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。'], 'name': '赛恩', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05NX001.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 6171, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05DE009.png', 'keyword': ['搏命：依当前生命值造成打击伤害。', '咒盾：取消下个敌方法术或技能将对该单位造成的效果。'], 'name': '加里奥', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05DE009.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 6414, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06FR011.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。'], 'name': '奥恩', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06FR011.png', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/02BW053.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04MT008.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05NX001.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05DE009.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06FR011.png']
+12-25 23:54:43 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 23:54:52 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1864631992 from 1044911641@[群:732370841] "lor 深海泰坦"
+12-25 23:54:52 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '深海泰坦', 'region': '', 'rarity': '', 'costNormal': ''}
+{'total': 0, 'data': [], 'success': True}
+相片为---------- []
+12-25 23:54:52 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-25 23:55:26 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2127927396 from 1044911641@[群:732370841] "xj 3267"
+12-25 23:55:26 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+12-25 23:55:28 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-26 13:55:33 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1749664431 from 1044911641@[群:732370841] "lor yx1 hf7"
+12-26 13:55:33 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 7}
+{'total': 5, 'data': [{'collectible': True, 'cost': 7, 'id': 4076, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02BW053.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。', '凶煞：只能被攻击力大于等于3的单位格挡。', '投掷：从己方牌组底湮灭X张非英雄牌。', '深潜：一旦己方牌组有15-张牌，本局游戏便达成深潜状态，具有深潜词条的单位+3|+3。'], 'name': '诺提勒斯', 'rarityRef': 'Champion', 'regionRef': 'Bilgewater', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02BW053.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 5730, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04MT008.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。'], 'name': '墨菲特', 'rarityRef': 'Champion', 'regionRef': 'Targon', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04MT008.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 5972, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05NX001.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。'], 'name': '赛恩', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05NX001.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 6171, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/05DE009.png', 'keyword': ['搏命：依当前生命值造成打击伤害。', '咒盾：取消下个敌方法术或技能将对该单位造成的效果。'], 'name': '加里奥', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/05DE009.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 7, 'id': 6414, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06FR011.png', 'keyword': ['坚韧：受到的所有伤害会减少1点。'], 'name': '奥恩', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06FR011.png', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/02BW053.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04MT008.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05NX001.png', 'https://wspic.iyingdi.cn/card/lor/card/img/05DE009.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06FR011.png']
+12-26 13:55:35 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-26 13:56:35 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message 2042125437 from 1044911641@[群:732370841] "lor yx1 hf6"
+12-26 13:56:35 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+{'name': '', 'region': '', 'rarity': 'Champion', 'costNormal': 6}
+{'total': 9, 'data': [{'collectible': True, 'cost': 6, 'id': 2997, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01NX038.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。'], 'name': '德莱厄斯', 'rarityRef': 'Champion', 'regionRef': 'Noxus', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01NX038.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 3326, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01SI042.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。'], 'name': '赫卡里姆', 'rarityRef': 'Champion', 'regionRef': 'ShadowIsles', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01SI042.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 3332, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/01FR024.png', 'keyword': ['绝念：效果会在单位被消灭时触发。', '启明：当你拥有10点法力时，获得启明效果。'], 'name': '艾尼维亚', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/01FR024.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 4105, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/02FR002.png', 'keyword': ['碾压：对格挡单位造成的伤害溢出的部分将由敌方水晶承受。', '打出：从手牌中打出此单位后即可获得效果', '寒袭：在本回合中，将一名单位的攻击力变为0。之后仍可改变。', '易损：在宣告攻击时，任意友军都能挑战易损敌军，迫使其阻挡。'], 'name': '瑟庄妮', 'rarityRef': 'Champion', 'regionRef': 'Freljord', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/02FR002.PNG', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 5509, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04DE008.png', 'keyword': ['屏障：抵消该单位将承受的下一次伤害。持续一回合。', '挑战者：可选择由哪个敌方单位来格挡自己。', '最强：以攻击力最高的为准，若不相上下则比较生命值，最后比较消耗的法力值。', '打击：对一名敌人造成等同于该单位攻击力的伤害。攻击力为0的单位无法打击。'], 'name': '嘉文四世', 'rarityRef': 'Champion', 'regionRef': 'Demacia', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04DE008.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 5579, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04SH047.png', 'keyword': ['凶煞：只能被攻击力大于等于3的单位格挡。'], 'name': '内瑟斯', 'rarityRef': 'Champion', 'regionRef': 'Shurima', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04SH047.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 5858, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/04SI055.png', 'keyword': ['凶煞：只能被攻击力大于等于3的单位格挡。'], 'name': '佛耶戈', 'rarityRef': 'Champion', 'regionRef': 'ShadowIsles', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/04SI055.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 6605, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06MT008.png', 'keyword': [], 'name': '凱爾', 'rarityRef': 'Champion', 'regionRef': 'Targon', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06MT008.png', 'typeRef': 'Unit'}, {'collectible': True, 'cost': 6, 'id': 6641, 'img': 'https://wspic.iyingdi.cn/card/lor/card/img/06RU026.png', 'keyword': [], 'name': '厄薩斯', 'rarityRef': 'Champion', 'regionRef': 'Runeterra', 'thumbnail': 'https://wspic.iyingdi.cn/card/lor/card/thumbnail/06RU026.png', 'typeRef': 'Unit'}], 'success': True}
+相片为---------- ['https://wspic.iyingdi.cn/card/lor/card/img/01NX038.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01SI042.png', 'https://wspic.iyingdi.cn/card/lor/card/img/01FR024.png', 'https://wspic.iyingdi.cn/card/lor/card/img/02FR002.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04DE008.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04SH047.png', 'https://wspic.iyingdi.cn/card/lor/card/img/04SI055.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06MT008.png', 'https://wspic.iyingdi.cn/card/lor/card/img/06RU026.png']
+12-26 13:56:39 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-26 13:56:54 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1644138118 from 1044911641@[群:732370841] "xj 5509"
+12-26 13:56:54 [INFO] nonebot | Event will be handled by Matcher(type='message', module=qqbot.plugins.lor)
+12-26 13:56:56 [INFO] nonebot | Matcher(type='message', module=qqbot.plugins.lor) running complete
+12-26 15:53:44 [SUCCESS] nonebot | OneBot V11 3020472071 | [notice.notify.honor]: {'time': 1672041224, 'self_id': 3020472071, 'post_type': 'notice', 'notice_type': 'notify', 'sub_type': 'honor', 'user_id': 1044911641, 'group_id': 732370841, 'honor_type': 'talkative'}
+12-26 16:11:08 [SUCCESS] nonebot | OneBot V11 3020472071 | [message.group.normal]: Message -1983854583 from 1761512493@[群:732370841] "[CQ:image,file=edf8f6abc7b18fd957c0731df0927af7.image,subType=0,url=https://gchat.qpic.cn/gchatpic_new/1761512493/732370841-2702418754-EDF8F6ABC7B18FD957C0731DF0927AF7/0?term=3&amp;is_origin=0]"

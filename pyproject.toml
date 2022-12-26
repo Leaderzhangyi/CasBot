@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "QQbot"
+version = "0.1.0"
+description = "QQbot"
+authors = []
+readme = "README.md"
+
+[[tool.poetry.source]]
+name = "tsinghua"
+url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple/"
+default = true  # 添加一个 default 参数, 使 poetry 的默认回调行为都调用到这个清华镜像上.
+
+
+[tool.poetry.dependencies]
+python = "^3.7.3"
+nonebot2 = "^2.0.0-beta.1"
+nonebot-adapter-onebot="^2.0.0-beta.1"
+
+[tool.poetry.dev-dependencies]
+nb-cli = "^0.6.0"
+
+[tool.nonebot]
+plugins = ["nonebot_plugin_apscheduler"]
+plugin_dirs = ["qqbot/plugins"]
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
