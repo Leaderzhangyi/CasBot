@@ -1,0 +1,1601 @@
+{
+    "default": "wqy-zenhei.ttc",
+    "1044911641": {
+        "week": 1,
+        "exact_time": {
+            "1": {
+                "start": "08:20",
+                "end": "09:05"
+            },
+            "2": {
+                "start": "09:10",
+                "end": "09:55"
+            },
+            "3": {
+                "start": "10:15",
+                "end": "11:00"
+            },
+            "4": {
+                "start": "11:05",
+                "end": "11:50"
+            },
+            "5": {
+                "start": "11:55",
+                "end": "12:25"
+            },
+            "6": {
+                "start": "12:30",
+                "end": "13:00"
+            },
+            "7": {
+                "start": "13:10",
+                "end": "13:55"
+            },
+            "8": {
+                "start": "14:00",
+                "end": "14:45"
+            },
+            "9": {
+                "start": "15:05",
+                "end": "15:50"
+            },
+            "10": {
+                "start": "15:55",
+                "end": "16:40"
+            },
+            "11": {
+                "start": "18:00",
+                "end": "18:45"
+            },
+            "12": {
+                "start": "18:50",
+                "end": "19:35"
+            },
+            "13": {
+                "start": "19:40",
+                "end": "20:25"
+            }
+        },
+        "1": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "7": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        }
+    },
+    "1044911641": {
+        "week": 1,
+        "exact_time": {
+            "1": {
+                "start": "08:20",
+                "end": "09:05"
+            },
+            "2": {
+                "start": "09:10",
+                "end": "09:55"
+            },
+            "3": {
+                "start": "10:15",
+                "end": "11:00"
+            },
+            "4": {
+                "start": "11:05",
+                "end": "11:50"
+            },
+            "5": {
+                "start": "11:55",
+                "end": "12:25"
+            },
+            "6": {
+                "start": "12:30",
+                "end": "13:00"
+            },
+            "7": {
+                "start": "13:10",
+                "end": "13:55"
+            },
+            "8": {
+                "start": "14:00",
+                "end": "14:45"
+            },
+            "9": {
+                "start": "15:05",
+                "end": "15:50"
+            },
+            "10": {
+                "start": "15:55",
+                "end": "16:40"
+            },
+            "11": {
+                "start": "18:00",
+                "end": "18:45"
+            },
+            "12": {
+                "start": "18:50",
+                "end": "19:35"
+            },
+            "13": {
+                "start": "19:40",
+                "end": "20:25"
+            }
+        },
+        "1": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "2": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "3": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "4": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "5": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "6": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        },
+        "7": {
+            "1": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "2": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "3": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "4": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "5": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "6": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "7": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "8": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "9": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "10": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "11": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "12": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ],
+            "13": [
+                {
+                    "name": "",
+                    "teacher": "",
+                    "classroom": "",
+                    "week": []
+                }
+            ]
+        }
+    }
+}

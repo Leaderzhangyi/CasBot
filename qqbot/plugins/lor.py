@@ -77,6 +77,7 @@ async def _request(url):
 
 async def get_img(name: str, region: str, rarity: str, costNormal: int):
     url = f'https://api2.iyingdi.com/lor/card/search?name={name}&region={region}&rarity={rarity}&costNormal={costNormal}&token=&page=0&size=30&collect=0'
+    print("请求url为：",url)
     text = await _request(url)
     text = str(text)
     print(text)
