@@ -90,7 +90,7 @@ async def get_img(name: str, region: str, rarity: str, costNormal: int):
 
 
 async def send_forward_msg_group(bot: Bot, event: GroupMessageEvent, name: str, msgs,ids):
-
+    
     def to_json(msg,id):
         return {"type": "node", "data": {"name": name, "uin": bot.self_id, "content": msg+"\n英雄ID："+id}}
 
